@@ -22,4 +22,4 @@ pnpm build
 pnpm lint
 ```
 
-## 
+## https://www.youtube.com/watch?v=T3incqDttn0
